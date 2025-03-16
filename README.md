@@ -2,7 +2,7 @@
 
 If  you ever had to translate strings scattered in multiple files, you would know what a hassle it can be, and this tool aims to help with that. It can:
 
-1. **Export** all strings from RESX files to CSV. You just specify a dolder, and it gets all resx files in all subfolders, and exports them to a csv.
+1. **Export** all strings from RESX files to CSV. You just specify a folder, and it gets all resx files in all subfolders, and exports them to a csv.
 2. **Translate** the strings using popular translation services
 3. **Import** the translated strings back to their original RESX files, using the csv from the previous step.
 
