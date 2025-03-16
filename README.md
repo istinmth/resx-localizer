@@ -1,4 +1,4 @@
-# RESX Localization Tool
+# RESX Localizer
 
 If  you ever had to translate strings scattered in multiple files, you would know what a hassle it can be, and this tool aims to help with that. It can:
 
@@ -28,7 +28,7 @@ If  you ever had to translate strings scattered in multiple files, you would kno
 
 ```bash
 git clone https://github.com/istinmth/resx-localizer.git
-cd resx-localization-tool
+cd resx-localizer
 ```
 
 2. Install required dependencies:
